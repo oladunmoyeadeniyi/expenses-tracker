@@ -8,7 +8,7 @@ import TransactionList from "./components/TransactionList";
 import { GlobalProvider } from "./context/GlobalState";
 function App() {
   useEffect(() => {
-    document.title = "Expense Tracker"
+    document.title = "Expense Tracker from Dunmoye"
     return () => {
       // cleanup
     }
